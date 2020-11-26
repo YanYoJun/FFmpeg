@@ -3215,7 +3215,7 @@ void show_help_default(const char *opt, const char *arg)
 
     show_usage();
 
-    printf("Getting help:\n"
+    printf("Hello Yan, Getting help:\n"
            "    -h      -- print basic options\n"
            "    -h long -- print more options\n"
            "    -h full -- print all options (including all format and codec specific options, very long)\n"
